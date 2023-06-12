@@ -1,0 +1,4 @@
+Checklist: 
+Full documentation of the Project,
+data flowchart 
+Images and Sources
