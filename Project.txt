@@ -1,4 +1,5 @@
 Checklist: 
+problem statement and outcome 
 Full documentation of the Project,
 data flowchart 
 Images and Sources
