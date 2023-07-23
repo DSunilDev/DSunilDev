@@ -3,3 +3,7 @@ problem statement and outcome
 Full documentation of the Project,
 data flowchart 
 Images and Sources
+
+Ai Automation:
+
+Generate Clear and Concise Prompt
